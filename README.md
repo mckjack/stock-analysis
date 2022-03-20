@@ -14,6 +14,7 @@ Running this macro were able to see that the data given to us was the same as it
 ---
 ![VBA_Challenge_2018](https://github.com/mckjack/stock-analysis/blob/main/VBA_Challenge_2018.png)
 > And here are the pictures of the script timed for each respective year
+---
 ![Timed](https://github.com/mckjack/stock-analysis/blob/main/VBA_Challenge_2017_timed.png)
 ---
 ![Timed_2](https://github.com/mckjack/stock-analysis/blob/main/VBA_Challenge_2018_timed.png)
