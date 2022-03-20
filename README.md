@@ -28,6 +28,7 @@
  - deals with bug fixes very well meaning that the refactored code will be free of most bugs than the original.
  - It is subject to peer review meaning that others have looked over the code to ensure that it is right in every line and can run smoothly.
  - eliminates duplicate code meaning that it is a way more efficient way to run tasks since it avoids looking at certain scripts twice. 
+ ---
  Some disadvantages of refactored code as a whole are
  - introducing new bugs that could make it difficult to run
  - very time consuming, instead of writing original, could take much longer to formulate a whole code to run tasks.
